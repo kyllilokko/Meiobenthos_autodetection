@@ -1,0 +1,17 @@
+# Path to training and validation image datasets
+train: C:/Users/KL/Desktop/Bakatoo/Esitamiseks/YOLO11/dataset_9groups/train/images
+val: C:/Users/KL/Desktop/Bakatoo/Esitamiseks/YOLO11/dataset_9groups/val/images
+
+# Number of classes
+nc: 8  # Adjust this based on your dataset
+
+# Class names
+names:
+  0: nematode
+  1: rotifer
+  2: testacea
+  3: ciliate
+  4: turbellarians
+  5: annelida
+  6: arthropoda
+  7: tardigrada

@@ -1,0 +1,10 @@
+# Path to training and validation image datasets
+train: C:/Users/KL/Desktop/Bakatoo/Esitamiseks/YOLO11/dataset_1group_only/train/images
+val: C:/Users/KL/Desktop/Bakatoo/Esitamiseks/YOLO11/dataset_1group_only/val/images
+
+# Number of classes
+nc: 1  # Adjust this based on your dataset
+
+# Class names
+names:
+  0: meiofauna
