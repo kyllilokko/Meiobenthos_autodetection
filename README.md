@@ -4,7 +4,7 @@ Selles repositooriumis on bakalaureusetöö raames valminud ja meiobentost fotod
 
 Meiobentose tuvastamiseks sobivate masinõppemeetodite hindamiseks koostati mikrofotodest andmestik, mis jagati märgendatud treening- ja valideerimisandmeteks ning märgendamata testandmeteks. Kirjanduse ja andmete iseloomu põhjal valiti välja kaks masinõppemeetodit: Faster R-CNN ja YOLO. Nende masinõppemeetoditega treeniti treeningandmetel mudelid, mis tuvastavad meiobentose organismid ja identifitseerivad millisesse rühma organism kuulub. 
 
-Märgendatud treening- ja valideerimisandmed on ... . Siin repositooriumis on näidiseks vaid esimesed kümme fotot nii treening- kui valideerimisandmetest. 
+Märgendatud treening- ja valideerimisandmed on kättesaadavad Kaggle platformil: (https://www.kaggle.com/datasets/kyllilokko/meiobenthos-dataset). Siin repositooriumis on näidiseks vaid esimesed kümme fotot nii treening- kui valideerimisandmetest. 
 
 # Faster R-CNN
 Mudeli treenimiseks on 3 skripti: 
