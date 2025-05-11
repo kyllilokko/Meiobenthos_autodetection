@@ -1,4 +1,4 @@
-# Automatic recognition of benthic meiofauna using machine learning / Meiobentose hulka kuuluvate organismide automaatne tuvastamine masinõppe meetoditega 
+# Automatic recognition of meiobenthos using machine learning / Meiobentose hulka kuuluvate organismide automaatne tuvastamine masinõppe meetoditega 
 
 Selles repositooriumis on bakalaureusetöö raames valminud ja meiobentost fotodelt tuvastavate mudelite treenimiseks kasutatud programmide kood. Programmide koostamisel kasutati ChatGPT abi. Sisend ja ChatGPT vastused on lisatud siia repositooriumisse: fail nimega ChatGPT vestlused.pdf.
 
